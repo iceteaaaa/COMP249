@@ -1,3 +1,3 @@
 # COMP249
 
-Projects I made during for class COMP249, January - April 2019. 
+Projects I made for class COMP249, January - April 2019. 
